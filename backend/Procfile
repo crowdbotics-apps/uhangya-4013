@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT uhangya_4013.wsgi:application
